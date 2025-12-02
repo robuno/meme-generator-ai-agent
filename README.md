@@ -146,7 +146,7 @@ python examples.py
 
 This will run through various usage examples and demonstrate different features.
 
-## 🤖 How It Works
+## How It Works
 
 1. **Template Selection**: Searches Imgflip API for meme templates matching the keyword
 2. **Image Analysis**: Uses BLIP model to generate detailed descriptions of the template image
@@ -154,7 +154,7 @@ This will run through various usage examples and demonstrate different features.
 4. **Quality Control**: AI scores the humor and retries if the meme isn't funny enough
 5. **Meme Creation**: Generates the final meme using Imgflip API
 
-## 🧠 AI Models Used
+## AI Models Used
 
 The application uses several open-source AI models for different tasks:
 
